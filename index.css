@@ -23,6 +23,7 @@ body {
 }
 .header {
   background-color: #ff9800;
+  margin-top: 10vh;
   border-radius: 20px 20px 0px 0px;
   text-align: center;
   padding: 1.75rem;
